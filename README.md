@@ -1,6 +1,6 @@
 # Hello everyone, welcome to my github. ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
 
-My nickname is Kendo, and my full name is Tulakorn. I'm a beginner developer from Thailand. I'm proficient in [Python](https://www.python.org/) and mostly build projects using it, but I'm open to learning other languages and continuously improving myself. Currently, I'm running a Discord music bot [Oreo](https://discord.com/users/1114226210571034675), which I plan to expand with more features in the future. You can also check out my other work on my GitHub, which I've shared. I aim to share what I create along with clear explanations for those who want to learn the same things I’m working on. Thank you for visiting, and feel free to give me any feedback.
+My nickname is Kendo, and my full name is Tulakorn. I'm a newbie developer from Thailand. I'm proficient in [Python](https://www.python.org/) and mostly build projects using it, but I'm open to learning other languages and continuously improving myself. Currently, I'm running a Discord music bot [Oreo](https://discord.com/users/1114226210571034675), which I plan to expand with more features in the future. You can also check out my other work on my GitHub, which I've shared. I aim to share what I create along with clear explanations for those who want to learn the same things I’m working on. Thank you for visiting, and feel free to give me any feedback.
 
 ## Skills
 
