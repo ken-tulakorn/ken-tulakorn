@@ -63,6 +63,4 @@ Hi, I’m Kendo (Tulakorn), a newbie developer from Thailand. I mostly work with
 
 ## Badges
 
-<a href="https://github.com/ken-tulakorn">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ken-tulakorn&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages&cache_bust=1" alt="Top Languages" />
-</a>
+[![Top Languages](https://my-github-readme-stats-mocha-pi.vercel.app/api/top-langs/?username=ken-tulakorn&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages)](https://github.com/ken-tulakorn)
